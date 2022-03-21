@@ -1,0 +1,22 @@
+.pic{
+    text-align: left;
+    width: 500px;
+    border: 20px  blue;
+    border-radius: 50px;
+}
+
+
+.sis{
+    text-align: right;
+}
+
+.pic2{
+    text-align: right;
+}
+
+.info{
+    color: black;
+    font-size: medium;
+    font-style: italic;
+    text-align: right;
+}

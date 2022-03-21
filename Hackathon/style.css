@@ -1,0 +1,19 @@
+.logo{
+    text-align: center;
+}
+
+
+.searchbar{
+    text-align: center;
+    height:15cm;
+    color: #2f3640 ; 
+} 
+
+.text{
+    text-align: center;
+}
+
+.info{
+    float: right;
+    color: brown;
+}
